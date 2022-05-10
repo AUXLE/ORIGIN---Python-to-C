@@ -1,0 +1,127 @@
+Tasks to be done before the Release of Version - 1 of Origin that converts from Python to C
+
+1. Comment Statements
+    a. #Statements - Done
+    b. Triple Quotes
+
+2. Print Statements
+    a. print("Hello") - Done
+    b. print("a = ",a) - Done
+        i. Spacing Problems - Done
+    c. print("a = ",a,"b = ",b) - Done
+        i. Spacing Problems - Done
+    d. print(a," This is a") - Done
+        i. Spacing Problems
+    e. print(a) - Done
+        i. Spacing Problems - Done
+    f. print(a,b)
+        i. Spacing Problems - Done
+
+3. Input Statements
+    a. Int - Done
+    b. Float - Done
+    c. String - Done
+        i. Custom Size Declaration
+    d. Spacing Problems - Done
+    e. Input Statements with prompt string - Done
+    f. Multiple Input Statements - Done
+
+4. Variable Declarations
+    a. Int - Done
+    b. Float - Done
+    c. String 
+        i. Custom Size Declaration
+        ii. Default - Done
+    d. Spacing Problem - Done
+
+5. Expressions
+    a. Int - Done 
+    b. Float - Done
+    c. String - Done
+        i. Custom Size Declaration
+        ii. Default 
+    d. Spacing Problem
+    e. Multiple Variable Declarations
+
+6. If - Else Statements - Done
+
+7. Elif Statements - Done
+
+8. For Statements 
+
+9. While Statements - Done
+
+10. Functions Declarations
+
+11. Class Declarations
+
+12. Declare all the Variables at first - Done
+
+13. Built - in Functions
+
+14. Clubing all the same types of variables together - Done
+
+Bugs:
+
+1. Multiple input statements at the same time - Done
+2. Taking account of things in quotes
+3. Variable name Bugs
+
+Things to be done for Functions Conversions:
+
+    1. Function Declaration
+    2. Proper Arguments Declaration
+    3. Variable length Arguments
+    4. Lambda Functions
+    5. Return Statements
+    6. Calling Functions
+    7. Global Variable
+    8. abs()
+    9. ord()
+    10. chr()
+    11. bin()
+    12. type()
+    13. id()
+    14. min()
+    15. max()
+    16. sum()
+    17. format()
+    18. round()
+    19. pow()
+    20. floor()
+    21. ceil()
+    22. sqrt()
+    23. eval()
+    24. all()
+    25. zip()
+
+Things to be Done for Strings Conversions:
+
+    1. Dynamic Declaration of Strings
+    2. For loop for a string
+    3. replace()
+    4. Concatenation
+    5. Appending
+    6. Repeating
+    7. String slicing
+    8. Stride when String slicing
+    9. String formatting operators
+    10. format()
+    11. len()
+    12. capitalize()
+    13. center()
+    14. find()
+    15. isalnum()
+    16. isalpha()
+    17. isdigit()
+    18. lower()
+    19. islower()
+    20. isupper()
+    21. upper()
+    22. title()
+    23. swapcase()
+    24. count()
+    25. Membership Operators
+        i. In
+        ii. Not in 
+    
